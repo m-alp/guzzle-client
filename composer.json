@@ -1,0 +1,14 @@
+{
+    "name": "miguel.alpendre/guzzle-client",
+    "description": "Guzzle Experiments",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "´",
+    "authors": [
+        {
+            "name": "Miguel Alpendre",
+            "email": "miguel.alpendre@olx.com"
+        }
+    ]
+}
