@@ -7,7 +7,7 @@ $debug = true;
 $domain = 'https://teste.stg.eu-west-1.mercury.olx.org/';
 $path = 'sitehooks/v1/messages';
 
-$apiKey = 'za7bzeRMuEqvf4c95T9tfh7h8JkmLUwq';
+$apiKey = 'The API Key';
 
 $uuid = '123456';
 $message = 'Some Message from Guzzle.';
